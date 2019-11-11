@@ -1,0 +1,10 @@
+type: edu
+files:
+- name: test/Tests.java
+  visible: false
+- name: src/LikesFormatter.java
+  visible: true
+- name: src/LikesFormatter.class
+  visible: true
+- name: src/Lister.java
+  visible: true

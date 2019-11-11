@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Arrays/lesson1/task1/Arrays-lesson1-task1.iml" filepath="$PROJECT_DIR$/.idea/modules/Arrays/lesson1/task1/Arrays-lesson1-task1.iml" group="Java_Interview_Questions/Arrays-lesson1-task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Arrays/lesson1/task1/Arrays-lesson1-task1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Arrays/lesson1/task1/Arrays-lesson1-task1_main.iml" group="Java_Interview_Questions/Arrays-lesson1-task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Arrays/lesson1/task1/Arrays-lesson1-task1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Arrays/lesson1/task1/Arrays-lesson1-task1_test.iml" group="Java_Interview_Questions/Arrays-lesson1-task1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Interview_Questions.iml" filepath="$PROJECT_DIR$/.idea/Java_Interview_Questions.iml" group="Java_Interview_Questions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Strings/Who Likes it/LikeCategorizer/Strings-Who_Likes_it-LikeCategorizer.iml" filepath="$PROJECT_DIR$/.idea/modules/Strings/Who Likes it/LikeCategorizer/Strings-Who_Likes_it-LikeCategorizer.iml" group="Java_Interview_Questions/Strings-Who_Likes_it-LikeCategorizer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Strings/Who Likes it/LikeCategorizer/Strings-Who_Likes_it-LikeCategorizer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Strings/Who Likes it/LikeCategorizer/Strings-Who_Likes_it-LikeCategorizer_main.iml" group="Java_Interview_Questions/Strings-Who_Likes_it-LikeCategorizer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Strings/Who Likes it/LikeCategorizer/Strings-Who_Likes_it-LikeCategorizer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Strings/Who Likes it/LikeCategorizer/Strings-Who_Likes_it-LikeCategorizer_test.iml" group="Java_Interview_Questions/Strings-Who_Likes_it-LikeCategorizer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Java_Interview_Questions/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Java_Interview_Questions/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Java_Interview_Questions/util" />
+    </modules>
+  </component>
+</project>
